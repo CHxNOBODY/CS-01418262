@@ -6,5 +6,7 @@
 
 - About this repository. Me and my friend decide to do project about Diabetes.
     + And this is link for dataset that we use in this project [dataset-link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+  
 ---
+
 ### Hope you enjoy looking in my repository!
